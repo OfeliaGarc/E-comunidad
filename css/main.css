@@ -1,0 +1,145 @@
+header .col-3 img {
+	width: 90px;
+	height: 90px;
+} /* Inserta tu codigo aqui */
+nav ul {
+	list-style-type: none;
+	float: left;
+	font-family: Calibri;
+	font-size: 19px;
+	white-space: nowrap;
+}
+nav li {
+	position: relative;
+	float: left;
+	margin-top: 22px;
+	margin-left: 18px;
+}
+a {
+	text-decoration: none;
+	color: #6e6e6e;
+}
+a:hover {
+	color: #ac58fa;
+}
+hr {
+	width: 2px;
+	height: 22px;
+	background-color: #6e6e6e;
+	margin-top: 14px;
+	margin-left: 20px;
+	display: none;
+}
+div img {
+	width: 100%;
+	height: 350px;
+}
+.gr {
+	padding-bottom: 25px;
+	background-color: #d8d8d8;
+}
+p {
+	text-align: center;
+}
+.m img {
+	width: 120px;
+	height: 120px;
+	margin-top: 28%;
+	margin-left: 36%;
+}
+.st {
+	font-size: 21px;
+	color: #000000;
+	font-family: Arial;
+	font-weight: bold;
+}
+.mg img {
+	width: 110%;
+	height: 310px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+#us {
+	font-family: Arial;
+	font-size: 20px;
+	text-align: center;
+	font-weight: 500;
+	margin-top: 34px;
+	margin-bottom: 28px;
+}
+.g {
+	padding-left: 50px;
+	padding-right: 26px;
+}
+ .col-4 img {
+ 	width: 95px;
+ 	height: 95px;
+ 	margin-top: 80px;
+ 	margin-bottom: 10px;
+ 	margin-left: 39%;
+}
+.subs {
+	font-family: Arial;
+	font-size: 17px;
+	color: #4b8a08;
+}
+.esp {
+	margin-top: 22px;
+	margin-bottom: 10%;
+	font-size: 12px;
+}
+.v {
+	background-color: #38610b;
+	background-size: 100%;
+}
+.d {
+	width: 410px;
+	height: 320px;
+	margin-left: 14%;
+}
+.bla {
+	margin-top: 14%;
+	margin-left: 14%;
+	text-align: left;
+	font-family: Arial;
+	font-size: 20px;
+	font-weight: 300;
+	color: #e6e6e6;
+}
+.a {
+	font-family: Arial;
+	font-size: 22px;
+	color: #e6e6e6;
+	margin-top: 10%; 
+	padding-right: 10%;
+}
+.b {
+	font-family: Arial;
+	font-size: 18px;
+	color: #e6e6e6;
+	padding-right: 10%;
+}
+.re {
+	text-align: center;
+	font-size: 12px;
+	color: #e6e6e6;
+	padding-right: 10%;
+}
+.red {
+	width: 180px;
+	height: 180px;
+	margin-left: 34%;
+	margin-top: 14%;
+	border-radius: 100px;
+}
+.c {
+	margin-top: 5%;
+	font-family: Arial;
+	font-size: 23px;
+}
+.d {
+	margin-left: 16%;
+}
+.jun {
+	margin-top: -48%;
+}
